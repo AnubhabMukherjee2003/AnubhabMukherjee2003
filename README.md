@@ -4,7 +4,7 @@
 ## Hi there 👋, Hi, my name is anubhab
 ### web developer and ml developer
 
-Hello there! I'm Anubhab Mukherjee, a dedicated BTech student in Computer Science Engineering, specializing in the exciting realm of web development and macgine learning. My journey in the world of technology has been nothing short of exhilarating, and I'm thrilled to share my aspirations and expertise with you.
+Hello there! I'm Anubhab Mukherjee, a dedicated BTech student in Computer Science Engineering, specializing in the exciting realm of web development and machine learning. My journey in the world of technology has been nothing short of exhilarating, and I'm thrilled to share my aspirations and expertise with you.
 
 
 
