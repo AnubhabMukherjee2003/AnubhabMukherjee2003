@@ -1,7 +1,7 @@
 ![web developer and ml developer](https://media.licdn.com/dms/image/D4D16AQGSZb3CyNDdnQ/profile-displaybackgroundimage-shrink_350_1400/0/1694579994579?e=1725494400&v=beta&t=wQmQAGIkxV67_gm-uUuYCXnZgx0wSa3h6Y1x_be9ng4)
 
 
-## Hi there 👋, Hi, my name is anubhab
+## Hi there 👋, my name is anubhab
 ### web developer and ml developer
 
 Hello there! I'm Anubhab Mukherjee, a dedicated BTech student in Computer Science Engineering, specializing in the exciting realm of web development and machine learning. My journey in the world of technology has been nothing short of exhilarating, and I'm thrilled to share my aspirations and expertise with you.
