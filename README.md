@@ -1,5 +1,4 @@
-![web developer and ml developer](https://media.licdn.com/dms/image/D4D16AQGSZb3CyNDdnQ/profile-displaybackgroundimage-shrink_350_1400/0/1694579994579?e=1725494400&v=beta&t=wQmQAGIkxV67_gm-uUuYCXnZgx0wSa3h6Y1x_be9ng4)
-
+![web developer and ml developer](https://media.licdn.com/dms/image/v2/D4D16AQGSZb3CyNDdnQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694579994579?e=1736380800&v=beta&t=FAS9p0nLZr_PxdOsxnp64MuF0aGSR9hY3B7GEQvolbo)
 
 ## Hi there 👋, my name is anubhab
 ### web developer and ml developer
