@@ -2,7 +2,7 @@
     <img src="https://forumstatic.oneplusmobile.com/opforum-gl/upload/image/front/thread/20220615/9786425/1089262911752765445/1089262911752765445.gif" alt="Background Image" />
 </div>
 <h1 align="left">Hi 👋! My name is Anubhab Mukherjee , a passoniate web2, web3 developer from India</h1>
-<h2 align="left">wanna see my <a href="https://anubhab-cli.me" target="_blank">website</a>?</h2>
+<h2 align="left">wanna see my <a href="https://anubhabmukherjee-terminal.vercel.app/" target="_blank">website</a>?</h2>
 
 
 ###
